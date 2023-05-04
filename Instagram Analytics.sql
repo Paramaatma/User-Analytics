@@ -1,3 +1,6 @@
+# User analytics in Instagram 
+# Done By Paramesh E
+
 likesUSE ig_clone;
 
 #1 Find the 5 oldest users of the Instagram from the database provided.
